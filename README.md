@@ -1,4 +1,4 @@
-# Lab2-weather
+# Lab3-weather
 please install dependency with:
 (python -m pip install --user requests)
 (python -m pip install requests pandas)
