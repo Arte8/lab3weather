@@ -1,4 +1,4 @@
-# Weather Summary — Lab 3
+Weather summary lab3
 
 This project downloads Toronto hourly weather data from Open-Meteo, validates each reading, calculates statistics, and saves a JSON summary.
 
