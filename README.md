@@ -15,11 +15,6 @@ clone into new folder (git clone https://github.com/ARTE8/lab3weather.git weathe
 The editable installation allows importing `weathersummary` without
 changing `sys.path`.
 
-From the repository root:
-
-```cmd
-python main.py
-```
 
 Internet access is required for downloading weather data.
 The output is saved to `data/processed/summary.json`.
