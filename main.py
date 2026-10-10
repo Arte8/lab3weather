@@ -14,9 +14,8 @@ def main():
     """Run the application and display clear error messages."""
 
     try:
-        data = WeatherSource().download()
+        readings, downloaded, rejected = WeatherSource().download()
 
-        readings, downloaded, rejected = process_weather(data)
 
         if downloaded < 50:
             print("Error: Fewer than 50 records downloaded.")
