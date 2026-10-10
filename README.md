@@ -4,6 +4,7 @@ This project downloads Toronto hourly weather data from Open-Meteo, validates ea
 
 Open Anaconda Prompt in the repository folder:
 clone into new folder 
+
 **git clone https://github.com/ARTE8/lab3weather.git weather-summary-review**
 
 **cd weather-summary-review**
