@@ -7,7 +7,7 @@ clone into new folder
 
 **git clone https://github.com/ARTE8/lab3weather.git weather-summary-review**
 
-**cd weather-summary-review**
+**cd weather-summary-review**   or root folder
 
 **conda env create -n weather-summary-review -f environment.yml**
 
